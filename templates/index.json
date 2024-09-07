@@ -89,21 +89,21 @@
         "heading_Fbz9Bt": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Coming soon...",
             "heading_size": "h1"
           }
         },
         "text_b8aXGK": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>If you want to be notified when this product is available you can follow us on Instagram!<br\/>We will let you know when our products are available for shopping.<\/p>",
             "text_style": "body"
           }
         },
         "button_9TtBtd": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "Instagram",
             "button_link": "",
             "button_style_secondary": false
           }
